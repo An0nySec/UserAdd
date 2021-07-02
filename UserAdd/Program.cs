@@ -1,6 +1,5 @@
-﻿using System;
+using System;
 using System.DirectoryServices;
-
 
 // Reference:https://docs.microsoft.com/zh-cn/troubleshoot/dotnet/csharp/add-user-local-system
 
@@ -13,7 +12,6 @@ namespace UserAdd
             if (args.Length != 2)
             {
                 Console.WriteLine("Usage: UserAdd.exe <username> <password>");
-                //Console.WriteLine("       UserAdd.exe guest password (Guest enabled)");
             }
             else
             {
