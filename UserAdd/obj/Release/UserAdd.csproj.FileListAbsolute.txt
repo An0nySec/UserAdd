@@ -1,0 +1,6 @@
+C:\UserAdd\UserAdd\bin\Release\UserAdd.exe
+C:\UserAdd\UserAdd\bin\Release\UserAdd.pdb
+C:\UserAdd\UserAdd\obj\Release\UserAdd.csprojAssemblyReference.cache
+C:\UserAdd\UserAdd\obj\Release\UserAdd.csproj.CoreCompileInputs.cache
+C:\UserAdd\UserAdd\obj\Release\UserAdd.exe
+C:\UserAdd\UserAdd\obj\Release\UserAdd.pdb
