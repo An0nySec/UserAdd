@@ -10,6 +10,7 @@ Usage: UserAdd.exe <username> <password>
 
 1. 利用`DirectoryService` 命名空间添加用户
 2. 将用户添加到管理员与远程桌面组
+3. Bypass AV
 
 ------
 
