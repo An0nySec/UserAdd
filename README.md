@@ -7,7 +7,7 @@
 Usage: UserAdd.exe <username>
 ```
 
-![image-20211230110308174](./imgs/image-20211230110308174.png)
+![image-20211230125147015](imgs/image-20211230125147015.png)
 
 1. 利用`DirectoryService` 命名空间添加用户
 2. 将用户添加到管理员与远程桌面组
