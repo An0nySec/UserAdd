@@ -1,5 +1,7 @@
 ## Introduce
 
+[Bypass AV 添加用户](https://payloads.cn/2021/1230/bypass-av-add-user.html)
+
 **UserAdd.exe**
 
 ```tex
