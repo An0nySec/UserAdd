@@ -1,12 +1,13 @@
-### Introduce
+## Introduce
 
-**UserAdd.exe   (.NET Framework 2.0)**
+**UserAdd.exe**
 
 ```tex
-Usage: UserAdd.exe <username> <password>
+[!] The default is 10 bits random password
+Usage: UserAdd.exe <username>
 ```
 
-<img src=".\imgs\image-20210702141149756.png" alt="image-20210702141149756" style="zoom:50%;" />
+![image-20211230110308174](.\imgs\image-20211230110308174.png)
 
 1. 利用`DirectoryService` 命名空间添加用户
 2. 将用户添加到管理员与远程桌面组
